@@ -1,0 +1,21 @@
+# Rohvideos (große Dateien, nicht versionieren)
+raw_videos/
+raw_videos/*
+
+# Extrahierte Frames
+frames_raw/
+frames_raw/*
+
+frames_tiles/
+frames_tiles/*
+
+# Optional: Videos irgendwo im Projekt
+*.MP4
+*.mp4
+*.MOV
+*.mov
+
+# Optional: temporäre Python/Notebook Sachen
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
