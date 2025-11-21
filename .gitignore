@@ -1,13 +1,16 @@
 # Rohvideos (große Dateien, nicht versionieren)
 raw_videos/
 raw_videos/*
+!raw_videos/.gitkeep
 
 # Extrahierte Frames
 frames_raw/
 frames_raw/*
+!frames_raw/.gitkeep
 
 frames_tiles/
 frames_tiles/*
+!frames_tiles/.gitkeep
 
 # Optional: Videos irgendwo im Projekt
 *.MP4
